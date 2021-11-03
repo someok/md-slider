@@ -297,9 +297,12 @@ sdk install java
 <!-- _class: lead -->
 <style scoped>
 section p {
-  color: blue;
+  /* color: blue; */
   font-size: 100pt;
+  font-weight: bold;
+  /* background: red; */
+  /* background-clip: text; */
 }
 </style>
 
-谢谢
+Over
