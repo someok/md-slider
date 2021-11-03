@@ -6,7 +6,7 @@ module.exports = {
         // transition: true,
     },
     inputDir: "src",
-    output: "public",
+    output: "docs",
     // themeSet: 'themes',
     allowLocalFiles: true,
 };

@@ -6,9 +6,9 @@
   "scripts": {
     "clean": "rimraf public",
     "copy": "mkdirp public && ncp src/assets public/assets",
-    "build": "pnpm run copy && marp",
-    "build-pdf": "pnpm run copy && marp --pdf --pdf-notes",
-    "build-all": "pnpm run copy && marp --pdf --pdf-notes && marp",
+    "build": "marp",
+    "build-pdf": "marp --pdf --pdf-notes",
+    "build-all": "marp --pdf --pdf-notes && marp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
