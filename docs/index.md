@@ -1,5 +1,5 @@
 ---
-title: "Markdown Slider"
+title: "Markdown Slides"
 ---
 
 ## 一些使用 [marp](https://marp.app/) 制作的 ppt
