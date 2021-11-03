@@ -1,5 +1,3 @@
-## 一些使用 marp
+## 一些使用 [marp](https://marp.app/) 制作的 ppt
 
-试用
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.yixia
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-   [ macOS 软件推荐](./macOS-software.html) [pdf 版](./macOS-software.pdf)
