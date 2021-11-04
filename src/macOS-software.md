@@ -48,14 +48,6 @@ _backgroundColor: #fff
 
 ---
 
-# iTerm2
-
-比原生终端更强的终端
-
-![w:1000](https://files.someok.com/images/2021/11/03/202111031841-WLjLRP.png)
-
----
-
 # 快贴
 
 -   https://clipber.com/
@@ -291,6 +283,24 @@ sdk install java
 
 -   https://apps.apple.com/cn/app/coteditor/id1024640650?mt=12
 -   支持 GBK 编码
+
+---
+
+# 终端
+
+## iTerm2
+
+比原生终端更强的终端
+
+## ZSH
+
+-   [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+
+## oh my zsh
+
+-   [官网](https://ohmyz.sh/)
+
+![bg right fit](https://files.someok.com/images/2021/11/03/202111031841-WLjLRP.png)
 
 ---
 
